@@ -1,0 +1,16 @@
+{
+  "name": "serviceproxy",
+  "version": "0.0.0",
+  "description": "A proxy to the service layer",
+  "main": "bootstrap.js",
+  "author": "Levi Schuck",
+  "dependencies": {
+    "coffee-script": "~1.6.2",
+    "zmq": "~2.4.0",
+    "underscore": "~1.4.4",
+    "bson": "~0.1.9",
+    "msgpack": "~0.1.8",
+    "string": "~1.4.0",
+    "restify": "~2.5.1"
+  }
+}
